@@ -1,0 +1,1 @@
+firebase-admin==5.2.0\ngoogle-cloud-storage==2.2.1\ngoogle-cloud-firestore==2.3.0\ngoogle-auth==2.3.3
